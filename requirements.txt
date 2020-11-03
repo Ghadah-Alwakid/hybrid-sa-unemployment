@@ -1,0 +1,6 @@
+numpy
+scikit-learn
+pycm
+nltk
+aspell-python-py3
+tweet-preprocessor
